@@ -1,0 +1,15 @@
+[Brave]
+Meter=Image
+ImageName=#@#Images\brave.png
+H=90
+LeftMouseUpAction=["C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe"]
+
+[Rainmeter]
+Update=1000
+
+[Metadata]
+Name=brave
+Author=APIUM
+Information=
+License=
+Version=

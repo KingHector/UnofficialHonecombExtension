@@ -1,0 +1,15 @@
+[VISUALSTUDIOCODE]
+Meter=Image
+ImageName=#@#Images\visualstudiocode.png
+H=90
+LeftMouseUpAction=["D:\Program Files\VisualStudio Code\Code.exe"]
+
+[Rainmeter]
+Update=1000
+
+[Metadata]
+Name=VISUALSTUDIOCODE
+Author=APIUM
+Information=
+License=
+Version=
